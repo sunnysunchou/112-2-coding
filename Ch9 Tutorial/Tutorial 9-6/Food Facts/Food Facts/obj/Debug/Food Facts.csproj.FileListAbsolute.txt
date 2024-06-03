@@ -1,0 +1,10 @@
+c:\users\tony\documents\visual studio 2015\Projects\Food Facts\Food Facts\bin\Debug\Food Facts.exe.config
+c:\users\tony\documents\visual studio 2015\Projects\Food Facts\Food Facts\bin\Debug\Food Facts.exe
+c:\users\tony\documents\visual studio 2015\Projects\Food Facts\Food Facts\bin\Debug\Food Facts.pdb
+c:\users\tony\documents\visual studio 2015\Projects\Food Facts\Food Facts\obj\Debug\Food Facts.csprojResolveAssemblyReference.cache
+c:\users\tony\documents\visual studio 2015\Projects\Food Facts\Food Facts\obj\Debug\Food_Facts.MainForm.resources
+c:\users\tony\documents\visual studio 2015\Projects\Food Facts\Food Facts\obj\Debug\Food_Facts.NutritionForm.resources
+c:\users\tony\documents\visual studio 2015\Projects\Food Facts\Food Facts\obj\Debug\Food_Facts.Properties.Resources.resources
+c:\users\tony\documents\visual studio 2015\Projects\Food Facts\Food Facts\obj\Debug\Food Facts.csproj.GenerateResource.Cache
+c:\users\tony\documents\visual studio 2015\Projects\Food Facts\Food Facts\obj\Debug\Food Facts.exe
+c:\users\tony\documents\visual studio 2015\Projects\Food Facts\Food Facts\obj\Debug\Food Facts.pdb
